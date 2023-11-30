@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="forms.inicio">
+  <grid id="27dc6" binding="panelinicio" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="3060" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <grid id="3c7f" layout-manager="GridLayoutManager" row-count="2" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="10" left="10" bottom="10" right="10"/>
+        <constraints border-constraint="Center"/>
+        <properties>
+          <background color="-2180942"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="29f62" class="javax.swing.JButton" binding="sacerdotButton" default-binding="true">
+            <constraints>
+              <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-16754625"/>
+              <foreground color="-917519"/>
+              <icon value="images/priest/priest_down.gif"/>
+              <text value="Sacerdot"/>
+            </properties>
+          </component>
+          <component id="5365b" class="javax.swing.JButton" binding="magButton" default-binding="true">
+            <constraints>
+              <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-16629382"/>
+              <font/>
+              <foreground color="-917519"/>
+              <icon value="images/wizard/wizard_down.gif"/>
+              <text value="Mag"/>
+            </properties>
+          </component>
+          <component id="4e728" class="javax.swing.JButton" binding="guerrerButton" default-binding="true">
+            <constraints>
+              <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-13434771"/>
+              <foreground color="-917519"/>
+              <icon value="images/warrior/warrior_down.gif"/>
+              <text value="Guerrer"/>
+            </properties>
+          </component>
+          <grid id="c8389" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="3" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties/>
+            <border type="none"/>
+            <children/>
+          </grid>
+        </children>
+      </grid>
+      <grid id="2eb82" binding="banerInicio" layout-manager="GridLayoutManager" row-count="4" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="5" left="5" bottom="5" right="5"/>
+        <constraints border-constraint="North"/>
+        <properties>
+          <background color="-16777216"/>
+          <font name="Castellar"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="8bb7b" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Castellar" size="72" style="1"/>
+              <foreground color="-5963758"/>
+              <text value="Dungeons"/>
+            </properties>
+          </component>
+          <component id="7d794" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Castellar" size="22"/>
+              <foreground color="-4536902"/>
+              <text value="CHOOSE A CHARACTER"/>
+            </properties>
+          </component>
+          <component id="bd726" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Castellar" size="10"/>
+              <foreground color="-1771521"/>
+              <text value="By Àlex Ventura"/>
+            </properties>
+          </component>
+          <grid id="2ae12" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints>
+              <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-16777216"/>
+            </properties>
+            <border type="none"/>
+            <children/>
+          </grid>
+        </children>
+      </grid>
+      <grid id="1f73b" layout-manager="GridLayoutManager" row-count="1" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints border-constraint="South"/>
+        <properties>
+          <background color="-16777216"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="3082f" class="javax.swing.JTextArea" binding="elSacerdoteDeLaTextArea" default-binding="true">
+            <constraints>
+              <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="0" fill="3" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="50"/>
+              </grid>
+            </constraints>
+            <properties>
+              <background color="-16777216"/>
+              <font/>
+              <foreground color="-13828329"/>
+              <text value="                             El Sacerdote de la esperanza"/>
+            </properties>
+          </component>
+          <component id="4b379" class="javax.swing.JTextArea" binding="elGuerreroVioletaTextArea" default-binding="true">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="0" fill="3" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="50"/>
+              </grid>
+            </constraints>
+            <properties>
+              <background color="-16777216"/>
+              <font/>
+              <foreground color="-57918"/>
+              <text value="                                 El Guerrero Violeta."/>
+            </properties>
+          </component>
+          <component id="c7978" class="javax.swing.JTextArea" default-binding="true">
+            <constraints>
+              <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="0" fill="3" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="50"/>
+              </grid>
+            </constraints>
+            <properties>
+              <background color="-16777216"/>
+              <font/>
+              <foreground color="-15412737"/>
+              <text value="                                      El Mago Fatuo"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>

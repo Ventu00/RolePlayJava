@@ -1,0 +1,124 @@
+                                HISTORIAL DE PARTIDAS
+-----------------------------------------------------------------------------------------------------------------
+
+Jugador: EL KARLO
+Personatge: Mag
+Temps: 23 segons  
+Número de vides: 3
+Número de monedes d'or: 50
+-------------------------------------------------------
+Jugador: Alexito
+Personatge: Guerrer
+Temps: 26 segons  
+Número de vides: 5
+Número de monedes d'or: 50
+-------------------------------------------------------
+Jugador: fdf
+Personatge: Guerrer
+Temps: 20 segons  
+Número de vides: 4
+Número de monedes d'or: 50
+-------------------------------------------------------
+Jugador: dsfsd
+Personatge: Guerrer
+Temps: 22 segons  
+Número de vides: 1
+Número de monedes d'or: 20
+
+Jugador: Paco
+Personatge: Sacerdot
+Temps: 121 segons  
+Número de vides: 3
+Número de monedes d'or: 50
+    
+
+Jugador: Manue
+Personatge: Sacerdot
+Temps: 46 segons  
+Número de vides: 1
+Número de monedes d'or: 50
+    
+
+Jugador: asdf
+Personatge: Guerrer
+Temps: 38 segons  
+Número de vides: 5
+Número de monedes d'or: 50
+    
+
+Jugador: Alex
+Personatge: Mag
+Temps: 47 segons  
+Número de vides: 3
+Número de monedes d'or: 50
+    
+
+Jugador: alex
+Personatge: Sacerdot
+Temps: 63 segons  
+Número de vides: 4
+Número de monedes d'or: 50
+    
+
+Jugador: 
+Personatge: Mag
+Temps: 28 segons  
+Número de vides: 2
+Número de monedes d'or: 50
+    
+
+Jugador: pao
+Personatge: Mag
+Temps: 23 segons  
+Número de vides: 2
+Número de monedes d'or: 50
+    
+
+Jugador: Pepe
+Personatge: Mag
+Temps: 37 segons  
+Número de vides: 1
+Número de monedes d'or: 50
+    
+
+Jugador: Antonio
+Personatge: Guerrer
+Temps: 40 segons  
+Número de vides: 4
+Número de monedes d'or: 50
+    
+
+Jugador: Za
+Personatge: Mag
+Temps: 26 segons  
+Número de vides: 3
+Número de monedes d'or: 50
+    
+
+Jugador: fgd
+Personatge: Mag
+Temps: 14 segons  
+Número de vides: 1
+Número de monedes d'or: 0
+    
+
+Jugador: fgd
+Personatge: Mag
+Temps: 15 segons  
+Número de vides: 0
+Número de monedes d'or: 0
+    
+
+Jugador: fds
+Personatge: Mag
+Temps: 26 segons  
+Número de vides: 3
+Número de monedes d'or: 50
+    
+
+Jugador: 
+Personatge: Mag
+Temps: 26 segons  
+Número de vides: 3
+Número de monedes d'or: 50
+    

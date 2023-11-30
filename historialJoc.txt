@@ -1,0 +1,7 @@
+-------------------------------------------------------
+Usuari: pepe
+Personatge: Guerrer
+Temps: 16segons  
+Número de vides: 5
+Número de monedes d'or: 50
+-------------------------------------------------------
